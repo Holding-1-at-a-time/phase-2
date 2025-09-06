@@ -1,0 +1,7 @@
+{
+  "name": "Slick Solutions Self-Assessment phase 2",
+  "description": "A client self-assessment tool for car detailing services, featuring a VIN scanner and an AI-powered dynamic pricing engine to generate instant estimates.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
